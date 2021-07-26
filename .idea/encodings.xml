@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springboot-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-02-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-02-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-03-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-04-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-05-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-06-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-07-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-shiro/hello-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-shiro/hello-shiro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-08-shiro/springboot-shiro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-09-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-10-async/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-dubbo_zookeeper/consumer-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-11-dubbo_zookeeper/provider-server/src/main/java" charset="UTF-8" />
+  </component>
+</project>

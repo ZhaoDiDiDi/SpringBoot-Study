@@ -1,0 +1,39 @@
+#person:
+#  name: qinjiang
+#  age: ${random.int}
+#  happy: false
+#  birth: 2000/01/01
+#  map: {k1: v1,k2: v2}
+#  hello: abb
+#  list:
+#    - code
+#    - girl
+#    - music
+#  dog:
+#    name: ${person.hello:hello}_旺财
+#    age: 1
+#
+#server:
+#  port: 8081
+#spring:
+#  profiles:
+#    active:
+#---
+#server:
+#  port: 8082
+#spring:
+#  config:
+#    activate:
+#      on-profile: dev
+## 选择要激活那个模块
+#---
+#server:
+#  port: 8083
+#spring:
+#  config:
+#    activate:
+#      on-profile: test
+##配置环境的名称
+
+# 可以通过 debug=true来查看，哪些自动配置类生效，哪些没有
+debug: true

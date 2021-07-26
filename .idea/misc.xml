@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05-data/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07-security/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-shiro/springboot-shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09-swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-async/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-dubbo_zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-dubbo_zookeeper/consumer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-dubbo_zookeeper/provider-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
